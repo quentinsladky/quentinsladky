@@ -16,7 +16,7 @@ Seeking a Data & Business Analysis Apprenticeship
 - **Excel Dashboard** – Data visualization with advanced functions
 
 ## Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/quentin-sladky)## Hi there 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/quentin-sladky)
 
 <!--
 **quentinsladky/quentinsladky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
