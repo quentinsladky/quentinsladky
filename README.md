@@ -10,12 +10,14 @@ Seeking a Data & Business Analysis Apprenticeship
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-**Titanic Survival Analysis** – Exploratory data analysis (Pandas, Seaborn, Jupyter)
+## Projects
+
+* **Titanic Survival Analysis** – Exploratory data analysis (Pandas, Seaborn, Jupyter)
 * **Sales Intelligence Dashboard** – Sales analysis and 3-month forecast (Python, SQLite, Pandas)
 * **Sales Forecasting** – Python algorithm (Pandas, NumPy, Matplotlib)
 * **SQL Database** – Sales, costs and stock analysis
 * **Excel Dashboard** – Data visualization with advanced functions
-
+  
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/quentin-sladky)
 
