@@ -14,6 +14,7 @@ Seeking a Data & Business Analysis Apprenticeship
 - **Sales Forecasting** – Python algorithm (Pandas, NumPy, Matplotlib)
 - **SQL Database** – Sales, costs and stock analysis
 - **Excel Dashboard** – Data visualization with advanced functions
+- **Titanic Survival Analysis** – Exploratory data analysis (Pandas, Seaborn, Jupyter)
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/quentin-sladky)
