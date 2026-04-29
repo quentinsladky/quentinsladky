@@ -1,35 +1,14 @@
+
 # Quentin Sladky
 
 L3 MIAGE Student – Université Paris-Saclay  
-Seeking a Data & Business Analysis Apprenticeship  
+Seeking an Apprenticeship in IT fields 
 Île-de-France, France  
 
-## Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-
-## Projects
-
-* **Titanic Survival Analysis** – Exploratory data analysis (Pandas, Seaborn, Jupyter)
-* **Sales Intelligence Dashboard** – Sales analysis and 3-month forecast (Python, SQLite, Pandas)
-* **Sales Forecasting** – Python algorithm (Pandas, NumPy, Matplotlib)
-* **SQL Database** – Sales, costs and stock analysis
-* **Excel Dashboard** – Data visualization with advanced functions
-  
-## Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/quentin-sladky)
-
-# Quentin Sladky
-
-🎓 L3 MIAGE Student – Université Paris-Saclay  
-🔍 Seeking a Data & Business Analysis Apprenticeship  
-📍 Île-de-France, France  
-
-Passionate about turning raw data into business insights. 
-I build end-to-end data projects — from SQL databases to 
-Python analyses and interactive dashboards.
+Curious student with a strong interest in data and business analysis. 
+I build end-to-end data projects in Python and SQL — from exploratory 
+analysis to dashboards — with a particular interest in the retail and 
+e-commerce sector. All projects are self-built and available below.
 
 ## Skills
 
