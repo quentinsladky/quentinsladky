@@ -2,13 +2,10 @@
 # Quentin Sladky
 
 L3 MIAGE Student – Université Paris-Saclay  
-Seeking an Apprenticeship in IT fields
+Seeking an Apprenticeship in IT fields  
 Île-de-France, France  
 
-Curious student with a strong interest in data and business analysis. 
-I build end-to-end data projects in Python and SQL — from exploratory 
-analysis to dashboards — with a particular interest in the retail and 
-e-commerce sector. All projects are self-built and available below.
+Curious student with a strong interest in data and business analysis. I build end-to-end data projects in Python and SQL — from exploratory analysis to dashboards — with a particular interest in the retail and e-commerce sector. All projects are self-built and available below.
 
 ## Skills
 
